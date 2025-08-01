@@ -25,12 +25,12 @@ h1 {
 }
 
 .mom-img {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 4px solid #fff;
-    box-shadow: 0 0 15px #e91e63;
+    width: 150px; /* Smaller, passport-stle width */
+    height: 150px; /* Same height for perfect cicrcle */
+    border-radius: 50%; /* Mas the image circular */
+    object-fit: cover; /* Keeps the image from stretching */
+    border: 4px solid #fff; /* White border for emphasis */
+    box-shadow: 0 0 15px #e91e63; /* Soft pink glow */
     margin-bottom: 20px;
 }
 
